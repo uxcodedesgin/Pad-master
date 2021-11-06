@@ -1,0 +1,6 @@
+{
+  "name": "Pad",
+  "description": "Pad is an extremely lightweight, low-latency, collaborative notepad built with WebSockets and NodeJS.",
+  "website": "https://github.com/petercunha/Pad",
+  "repository": "https://github.com/petercunha/Pad"
+}
